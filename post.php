@@ -22,10 +22,6 @@
      </div>
 <hr/>
 
-<div class="post-content">
-<p style="opacity: .3">AD </p>
- <a href="http://ssr.pjax.fun/" target="_blank"><img src="https://cdn.qqmoe.cn/img/other/kexue.jpg" ></a>
- </div>
     <?php $this->need('comments.php'); ?>
 </article> 
 
