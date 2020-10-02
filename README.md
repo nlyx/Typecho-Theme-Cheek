@@ -9,3 +9,5 @@ Will you eyes still smile from your cheeks?
 
 目前该主题适用于 Typecho 程序。
 如果各位有更多好建议可以添加我的企鹅号（576762711）来教我如何写（狗头）。
+
+配合 Aplayer + Dplayer 效果更佳！
